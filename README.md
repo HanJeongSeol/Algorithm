@@ -7,5 +7,6 @@
 > 1주차 - 2019.05.28 ~ 2019.06.02
  - BOJ : [2XN타일링](https://www.acmicpc.net/problem/11726), [2xn타일링2](https://www.acmicpc.net/problem/11727), [1,2,3더하기](https://www.acmicpc.net/problem/9095), [카드구매히기](https://www.acmicpc.net/problem/11052)
 
- > 2주차 = 2019.06.03 ~ 2019.06.09
- - BOJ : [카드구매하기2](https://www.acmicpc.net/problem/16194), [1,2,3더하기5](https://www.acmicpc.net/problem/15990)
+ > 2주차 - 2019.06.03 ~ 2019.06.09
+ - BOJ : [카드구매하기2](https://www.acmicpc.net/problem/16194), [1,2,3더하기5](https://www.acmicpc.net/problem/15990),[쉬운계단수](https://www.acmicpc.net/problem/10844),[오르막수](https://www.acmicpc.net/problem/11057),
+ [이친수](https://www.acmicpc.net/problem/2193)
