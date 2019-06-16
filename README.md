@@ -13,4 +13,7 @@
  [가장 긴 감소하는 부분수열](https://www.acmicpc.net/problem/11722),[가장 큰 증가하는 부분수열](https://www.acmicpc.net/problem/11055),
  [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054),[연속합](https://www.acmicpc.net/problem/1912),[연속합2](https://www.acmicpc.net/problem/13398),[제곱수의 합](https://www.acmicpc.net/problem/1699)
  
+
+ > 3주차 - 2019.06.10 ~ 2019.06.16
+ - BOJ : [합분해](https://www.acmicpc.net/problem/2225),[리모콘](https://www.acmicpc.net/problem/1197)
  
