@@ -17,3 +17,6 @@
  > 3주차 - 2019.06.10 ~ 2019.06.16
  - BOJ : [합분해](https://www.acmicpc.net/problem/2225),[리모콘](https://www.acmicpc.net/problem/1197)
  
+  > 4주차 - 2019.06.17 ~ 2019.06.21
+ - BOJ : [카잉달력](https://www.acmicpc.net/problem/6064),[수 이어쓰기1](https://www.acmicpc.net/problem/1748)
+ 
