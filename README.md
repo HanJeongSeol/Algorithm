@@ -1,22 +1,22 @@
-# ¾Ë°í¸®Áò ¹®Á¦Ç®ÀÌ
-## BOJ, CODEFORCES, SWEA¿¡¼­ Á¦°øÇÏ´Â ¾Ë°í¸®Áò ¹®Á¦¸¦ ÇØ°áÇÕ´Ï´Ù.<BR>[[BLOG]](seol-limit.tistory.com)
+# ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œí’€ì´
+## BOJ, CODEFORCES, SWEAì—ì„œ ì œê³µí•˜ëŠ” ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œë¥¼ í•´ê²°í•©ë‹ˆë‹¤.<BR>[[BLOG]](seol-limit.tistory.com)
 
 ## ~ 2019.05.28 
-- ±êÇãºê °èÁ¤ º¯°æÀ¸·Î ÀÎÇÏ¿© ÀÌÀü ÆÄÀÏ ¹é¾÷ ½Ç½Ã.
+- ê¹ƒí—ˆë¸Œ ê³„ì • ë³€ê²½ìœ¼ë¡œ ì¸í•˜ì—¬ ì´ì „ íŒŒì¼ ë°±ì—… ì‹¤ì‹œ.
 ------------
-> 1ÁÖÂ÷ - 2019.05.28 ~ 2019.06.02
- - BOJ : [2XNÅ¸ÀÏ¸µ](https://www.acmicpc.net/problem/11726), [2xnÅ¸ÀÏ¸µ2](https://www.acmicpc.net/problem/11727), [1,2,3´õÇÏ±â](https://www.acmicpc.net/problem/9095), [Ä«µå±¸¸ÅÈ÷±â](https://www.acmicpc.net/problem/11052)
+> 1ì£¼ì°¨ 
+ - BOJ : [2XNíƒ€ì¼ë§](https://www.acmicpc.net/problem/11726), [2xníƒ€ì¼ë§2](https://www.acmicpc.net/problem/11727), [1,2,3ë”í•˜ê¸°](https://www.acmicpc.net/problem/9095), [ì¹´ë“œêµ¬ë§¤ížˆê¸°](https://www.acmicpc.net/problem/11052)
 
- > 2ÁÖÂ÷ - 2019.06.03 ~ 2019.06.09
- - BOJ : [Ä«µå±¸¸ÅÇÏ±â2](https://www.acmicpc.net/problem/16194), [1,2,3´õÇÏ±â5](https://www.acmicpc.net/problem/15990),[½¬¿î°è´Ü¼ö](https://www.acmicpc.net/problem/10844),[¿À¸£¸·¼ö](https://www.acmicpc.net/problem/11057),
- [ÀÌÄ£¼ö](https://www.acmicpc.net/problem/2193), [½ºÆ¼Ä¿](https://www.acmicpc.net/problem/9465),[Æ÷µµÁÖ](https://www.acmicpc.net/problem/2156),[°¡Àå ±ä Áõ°¡ÇÏ´Â ºÎºÐ¼ö¿­](https://www.acmicpc.net/problem/11053),
- [°¡Àå ±ä °¨¼ÒÇÏ´Â ºÎºÐ¼ö¿­](https://www.acmicpc.net/problem/11722),[°¡Àå Å« Áõ°¡ÇÏ´Â ºÎºÐ¼ö¿­](https://www.acmicpc.net/problem/11055),
- [°¡Àå ±ä ¹ÙÀÌÅä´Ð ºÎºÐ¼ö¿­](https://www.acmicpc.net/problem/11054),[¿¬¼ÓÇÕ](https://www.acmicpc.net/problem/1912),[¿¬¼ÓÇÕ2](https://www.acmicpc.net/problem/13398),[Á¦°ö¼öÀÇ ÇÕ](https://www.acmicpc.net/problem/1699)
+ > 2ì£¼ì°¨ 
+ - BOJ : [ì¹´ë“œêµ¬ë§¤í•˜ê¸°2](https://www.acmicpc.net/problem/16194), [1,2,3ë”í•˜ê¸°5](https://www.acmicpc.net/problem/15990),[ì‰¬ìš´ê³„ë‹¨ìˆ˜](https://www.acmicpc.net/problem/10844),[ì˜¤ë¥´ë§‰ìˆ˜](https://www.acmicpc.net/problem/11057),
+ [ì´ì¹œìˆ˜](https://www.acmicpc.net/problem/2193), [ìŠ¤í‹°ì»¤](https://www.acmicpc.net/problem/9465),[í¬ë„ì£¼](https://www.acmicpc.net/problem/2156),[ê°€ìž¥ ê¸´ ì¦ê°€í•˜ëŠ” ë¶€ë¶„ìˆ˜ì—´](https://www.acmicpc.net/problem/11053),
+ [ê°€ìž¥ ê¸´ ê°ì†Œí•˜ëŠ” ë¶€ë¶„ìˆ˜ì—´](https://www.acmicpc.net/problem/11722),[ê°€ìž¥ í° ì¦ê°€í•˜ëŠ” ë¶€ë¶„ìˆ˜ì—´](https://www.acmicpc.net/problem/11055),
+ [ê°€ìž¥ ê¸´ ë°”ì´í† ë‹‰ ë¶€ë¶„ìˆ˜ì—´](https://www.acmicpc.net/problem/11054),[ì—°ì†í•©](https://www.acmicpc.net/problem/1912),[ì—°ì†í•©2](https://www.acmicpc.net/problem/13398),[ì œê³±ìˆ˜ì˜ í•©](https://www.acmicpc.net/problem/1699)
  
 
- > 3ÁÖÂ÷ - 2019.06.10 ~ 2019.06.16
- - BOJ : [ÇÕºÐÇØ](https://www.acmicpc.net/problem/2225),[¸®¸ðÄÜ](https://www.acmicpc.net/problem/1197)
+ > 3ì£¼ì°¨ 
+ - BOJ : [í•©ë¶„í•´](https://www.acmicpc.net/problem/2225),[ë¦¬ëª¨ì½˜](https://www.acmicpc.net/problem/1197)
  
-  > 4ÁÖÂ÷ - 2019.06.17 ~ 2019.06.21
- - BOJ : [Ä«À×´Þ·Â](https://www.acmicpc.net/problem/6064),[¼ö ÀÌ¾î¾²±â1](https://www.acmicpc.net/problem/1748)
+  > 4ì£¼ì°¨ 
+ - BOJ : [ì¹´ìž‰ë‹¬ë ¥](https://www.acmicpc.net/problem/6064),[ìˆ˜ ì´ì–´ì“°ê¸°1](https://www.acmicpc.net/problem/1748)
  
